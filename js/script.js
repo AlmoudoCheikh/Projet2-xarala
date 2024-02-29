@@ -2,8 +2,7 @@
 
 
 let contact = [
-    // { titre: "banane", montant: "300.000" },
-    // { titre: "pomme", montant: "200.000" },
+
 ]
 
 
@@ -163,7 +162,7 @@ function calculerTotalRevenu(revenus) {
 
 
 let contactRevenu = [
-    // { titreR: "banane", montantR: "300.000" }S
+
 ]
 
 const countElementR = document.querySelector('.countR')
